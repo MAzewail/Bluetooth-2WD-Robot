@@ -7,11 +7,8 @@ The code does not contain any arrays or even switch cases as well as no need for
 # Wiring Connection:
 
 IN1  ---> 2
-
 IN3  ---> 3
-
 IN2  ---> 4
-
 IN4  ---> 5
 
 ## Note that the numbers are not in order and you have to focus on the order of the Arduino pins used in this example.
