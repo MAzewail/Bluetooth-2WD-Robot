@@ -17,5 +17,9 @@ where IN1, IN2, IN3, IN4 are the input control pins in the Motor drive.
 
 # Alphabets and The characters used in communication:
 
-
+- A --> Right
+- B --> Left
+- C --> Forward
+- L --> Backward
+- P --> Stop
 
