@@ -6,10 +6,12 @@ The code does not contain any arrays or even switch cases as well as no need for
 
 # Wiring Connection:
 
-### IN1  ---> 2
-### IN3  ---> 3
-### IN2  ---> 4
-### IN4  ---> 5
+- IN1  ---> pin 2 (Arduino)
+- IN3  ---> pin 3 (Arduino)
+- IN2  ---> pin 4 (Arduino)
+- IN4  ---> pin 5 (Arduino)
+
+where IN1, IN2, IN3, IN4 are the input control pins in the Motor drive.
 
 ## Note that the numbers are not in order and you have to focus on the order of the Arduino pins used in this example.
 
